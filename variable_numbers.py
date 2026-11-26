@@ -1,5 +1,5 @@
-angka_pertama = 10
-angka_kedua = 5
+angka_pertama = 20
+angka_kedua = 7
 
 hasil_tambah = angka_pertama + angka_kedua
 hasil_kurang = angka_pertama - angka_kedua
